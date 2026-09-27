@@ -2,21 +2,15 @@
 Object Oriented Programming with C++ – Chapter I: Basics of C++ Programming
 Student Information
 
-Student Name : Mansi Patil
+### Student Information
 
-ZPRN : 125UAD1029
-
-Class / Division : SY-B.Tech / A
-
-Course Name : Object Oriented Programming with C++
-
-Chapter : Chapter I – Basics of C++ Programming
-
-Academic Year : 2026–27
-
-Department : AI & DS
-
-College : Zeal College of Engineering and Research, Narhe, Pune
+| Field | Details |
+|---------|---------|
+| Student Name | Mansi Patil  |
+| PRN | 125UAD1029 |
+| Class/Division | SY.Btech / A |
+| Course Name | Object Oriented Programming using C++ |
+| Unit | Unit I – Operator Overloading & Polymorphism |
 
 About the Chapter
 
